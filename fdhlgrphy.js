@@ -45,9 +45,9 @@ const { color, bgcolor } = require('./lib/color')
 const { wait, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, start, info, success, close } = require('./lib/functions')
 
 
-owner = '6283102650464'
+owner = '6285211527292'
 botname = 'Zyro-Bot'
-ownername = 'Fadhil Graphy'
+ownername = 'Iky Apake'
 
 //┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅〔 DATABASE 〕┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅//
 
